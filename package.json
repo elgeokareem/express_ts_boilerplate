@@ -11,7 +11,7 @@
     "start": "pnpm build && NODE_ENV=production node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "William Vegas",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

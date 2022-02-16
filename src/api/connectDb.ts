@@ -1,4 +1,5 @@
-import { connect } from 'mongoose';
+import mongoose from 'mongoose';
+const { connect } = mongoose;
 
 export function initDB() {
   connect("mongodb://localhost:27017/kokokoko")
