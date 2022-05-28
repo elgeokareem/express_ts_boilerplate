@@ -1,0 +1,13 @@
+2022-05-28 05:32:46:3246 [35mhttp[39m: [35m::ffff:127.0.0.1 GET / 500 1898 - 3.492 ms[39m
+[35m[39m
+2022-05-28 05:33:44:3344 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-05-28 05:33:44:3344 [35mhttp[39m: [35m::ffff:127.0.0.1 GET / 200 54 - 5.002 ms[39m
+[35m[39m
+2022-05-28 05:47:23:4723 [35mhttp[39m: [35m::ffff:127.0.0.1 GET / 200 14 - 4.661 ms[39m
+[35m[39m
+2022-05-28 05:48:26:4826 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-05-28 05:48:26:4826 [35mhttp[39m: [35m::ffff:127.0.0.1 GET / 200 54 - 4.528 ms[39m
+[35m[39m
+2022-05-28 05:49:09:499 [32minfo[39m: [32mChecking the API status: Everything is OK[39m
+2022-05-28 05:49:09:499 [35mhttp[39m: [35mGET / 200 54 - 6.961 ms[39m
+[35m[39m

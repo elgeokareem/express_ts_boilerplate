@@ -1,8 +1,8 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 const { connect } = mongoose;
 
 export function initDB() {
   connect("mongodb://localhost:27017/kokokoko")
     .then(() => console.log("Connected to DB"))
-    .catch(err => console.log(err));
+    .catch((err) => console.log(err));
 }
